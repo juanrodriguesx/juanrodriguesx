@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f8054&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A1DF&height=120&section=header"/>
 
 <h1 align="left">Hi, I'm Juan 🤓</h1>
 
@@ -28,8 +28,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="left">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_border=true&title_color=4f8054&icon_color=4f8054&text_color=c9d1d9&bg_color=0d1117" alt="Juan's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&title_color=4f8054&text_color=4f8054&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_border=true&title_color=00A1DF&icon_color=00A1DF&text_color=c9d1d9&bg_color=0d1117" alt="Juan's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&title_color=00A1DFtext_color=00A1DF&bg_color=0d1117" />
 </div>
 
 ## ☎️ &nbsp;Contact
